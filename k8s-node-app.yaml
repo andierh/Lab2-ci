@@ -21,7 +21,7 @@ spec:
         ports:
           - containerPort: 3000
 
-__
+
 apiVersion: v1
 kind: Service
 metadata:
